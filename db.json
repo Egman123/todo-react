@@ -1,0 +1,13 @@
+{
+  "todos": [
+    {"id": 1, "title": "react", "done": false},
+    {"id": 2, "title": "angular", "done": false},
+    {"id": 1, "title": "vue", "done": false}
+  ],
+  "items": [
+    {"id": 1, "name": "Angular", "price": 5000, "image": "https://via.placeholder.com/400/24f355"},
+    {"id": 2, "name": "React", "price": 5000, "image": "https://via.placeholder.com/400/24f355"},
+    {"id": 3, "name": "Vue", "price": 5000, "image": "https://via.placeholder.com/400/24f355"}
+  ]
+
+}
